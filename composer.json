@@ -26,6 +26,6 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0",
-        "symfony/phpunit-bridge": "6.4.*",
+        "symfony/phpunit-bridge": "6.4.*"
     }
 }
